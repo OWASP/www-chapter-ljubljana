@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Bostjan Spehonja](mailto:bostjan.spehonja@owasp.org)
+* [Mitja Trampuz](mailto:mitja.trampuz@owasp.org)
