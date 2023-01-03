@@ -9,4 +9,4 @@ meetup group: ljubljana-owasp-meetup-group
 
 ---
 
-Your organization’s name here Interested? Contact us please!
+Would you like your organization’s name here? Please get in touch with us!
