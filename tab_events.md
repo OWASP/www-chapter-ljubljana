@@ -3,8 +3,8 @@
 title: Events
 layout: null
 tab: true
-order: 1
-tags: OWASP Ljubljana
+order: 2
+tags: Ljubljana
 meetup group: ljubljana-owasp-meetup-group
 
 ---
