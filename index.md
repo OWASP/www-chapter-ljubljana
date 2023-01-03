@@ -24,6 +24,8 @@ Chapters are led by local leaders in accordance with the [Chapters Policy](/www-
 
 Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
 
+We will be running a Chapter Meetup every 2-3 months with the option to have additional events such as hands-on workshops. It will be a mix of in-person and virtual meetups. All our upcoming events are announced on Meetup.
+
 ## Upcoming meetings
 
 {% include chapter_events.html group=page.meetup-group %}
