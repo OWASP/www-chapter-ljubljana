@@ -1,11 +1,12 @@
 ---
 title: Events
-layout: null
+layout: col-sidebar
 tab: true
-order: 2
-tags: ljubljana
+order: 1
+tags: Owasp Ljubljana events
 meetup group: ljubljana-owasp-meetup-group
 ---
+
 
 ## Events
 **1. Opening session OWASP Ljubljana - 15.2.2023 16:30 (Hybrid)**
