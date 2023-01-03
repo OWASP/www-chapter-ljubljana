@@ -17,7 +17,7 @@ meetup group: ljubljana-owasp-meetup-group
  * Description: We are going to present our plan of activities, goals of the chapter and introduction to OWASP TOP 10
 
 **2. Cryptography - 15.3.2023 16:30 (Hybrid)**
- * Speakers: dr. Nastja Cepak
+ * Speakers: dr. Nastja Cepak, cryptographer
  * Location: Offline and online - TBA
  * Description: TBA
 
@@ -26,8 +26,8 @@ meetup group: ljubljana-owasp-meetup-group
  * Location: Offline and online - TBA
  * Description: We are going to walk through most common vulnerabilities in web applications discovered in penetragtion testing
 
-**4. Post quantum cryptography**
- * Speakers: dr. Nastja Cepak
+**4. Post-quantum cryptography**
+ * Speakers: dr. Nastja Cepak, cryptographer
  * Location:  TBA
  * Description: TBA
 
