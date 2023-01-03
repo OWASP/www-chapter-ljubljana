@@ -1,14 +1,16 @@
 ---
+
 title: Events
-layout: col-sidebar
+layout: null
 tab: true
 order: 1
-tags: Owasp Ljubljana events
+tags: OWASP Ljubljana
 meetup group: ljubljana-owasp-meetup-group
+
 ---
 
-
 ## Events
+
 **1. Opening session OWASP Ljubljana - 15.2.2023 16:30 (Hybrid)**
  * Speakers: Uroš Žust, Mitja Trampuž, Boštjan Špehonja
  * Location: Offline and online - TBA
