@@ -4,13 +4,15 @@ layout: col-sidebar
 title: OWASP Ljubljana
 tags: Ljubljana
 region: Europe
-meetup-group: ljubljana-owasp
+country: Slovenia
+postal-code: 1000
+meetup-group: Ljubljana-OWASP-Meetup-Group
 
 ---
 <a href="https://owasp.org/www-chapter-ljubljana/"><img src="https://owasp.org/assets/images/logo.png" alt="OWASP-Ljubljana"/></a>
 
 ## Welcome to OWASP Ljubljana
-Welcome to OWASP Ljubljana chapter homepage. The chapter leaders are <a href="mailto:bostjan.spehonja@owasp.org">Boštjan Špehonja</a> and <a href="mitja.trampuz@owasp.org">Mitja Trampuž</a> 
+Welcome to OWASP Ljubljana chapter homepage. The chapter leaders are <a href="mailto:bostjan.spehonja@owasp.org">Boštjan Špehonja</a> and <a href="mailto:mitja.trampuz@owasp.org">Mitja Trampuž</a>
 
 ## Call For Speakers
 Call For Speakers is open. If you would like to present a talk on Application Security at future OWASP Ljubljana Chapter events - please  review and agree with the OWASP Speaker Agreement and send the proposed talk title, abstract, and speaker bio to the Chapter Leaders via e-mail.
