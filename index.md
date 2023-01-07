@@ -6,10 +6,11 @@ tags: Ljubljana
 region: Europe
 country: Slovenia
 postal-code: 1000
-meetup-group: Ljubljana-OWASP-Meetup-Group
+meetup-group: owasp-ljubljana-chapter
 
 ---
-<a href="https://owasp.org/www-chapter-ljubljana/"><img src="https://owasp.org/assets/images/logo.png" alt="OWASP-Ljubljana"/></a>
+<a href="https://owasp.org/www-chapter-ljubljana/"><img src="/assets/images/OWASP_Ljubljana_Slovena.png" alt="OWASP-Ljubljana"/></a>
+
 
 ## Welcome to OWASP Ljubljana
 Welcome to OWASP Ljubljana chapter homepage. The chapter leaders are <a href="mailto:bostjan.spehonja@owasp.org">Boštjan Špehonja</a> and <a href="mailto:mitja.trampuz@owasp.org">Mitja Trampuž</a>
