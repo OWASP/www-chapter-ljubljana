@@ -14,17 +14,17 @@ meetup group: owasp-ljubljana-chapter
 ## Events
 
 
-**1. Opening session OWASP Ljubljana - 15.2.2023 16:30 (Hybrid)**
+**1. Opening session OWASP Ljubljana - 5.4.2023 16:30 (Hybrid)**
  * Speakers: Uroš Žust, Mitja Trampuž, Boštjan Špehonja
  * Location: Offline and online - TBA
  * Description: We are going to present our plan of activities, goals of the chapter and introduction to OWASP TOP 10
 
-**2. Cryptography - 15.3.2023 16:30 (Hybrid)**
+**2. Cryptography - 4.5.2023 16:30 (Hybrid)**
  * Speakers: dr. Nastja Cepak, cryptographer
  * Location: Offline and online - TBA
  * Description: TBA
 
-**3. OWASP TOP 10 - 13.4.2023 16:30 (Hybrid)**
+**3. OWASP TOP 10 - TBA 16:30 (Hybrid)**
  * Speakers: Boštjan Špehonja
  * Location: Offline and online - TBA
  * Description: We are going to walk through most common vulnerabilities in web applications discovered in penetragtion testing
