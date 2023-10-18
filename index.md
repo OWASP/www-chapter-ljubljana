@@ -18,7 +18,7 @@ Welcome to OWASP Ljubljana chapter homepage. The chapter leaders are <a href="ma
 Call For Speakers is open. If you would like to present a talk on Application Security at future OWASP Ljubljana Chapter events - please  review and agree with the OWASP Speaker Agreement and send the proposed talk title, abstract, and speaker bio to the Chapter Leaders via e-mail.
 
 ## Participation
-The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
 Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
 
