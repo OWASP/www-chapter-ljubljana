@@ -5,7 +5,7 @@ layout: null
 tab: true
 order: 3
 tags: Ljubljana
-meetup group: ljubljana-owasp-meetup-group
+meetup group: owasp-ljubljana-chapter
 
 ---
 
