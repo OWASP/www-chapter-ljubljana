@@ -13,15 +13,17 @@ meetup group: owasp-ljubljana-chapter
 
 ## Events
 
+
 **Meet #3. Do WAFs make sense? - 21.3.2024 16:30 (Online)**
  * Speakers: Gregor Ratajc, Matej Fajdiga
  * Description: You might have heard about 'WAFs' (web application firewalls) from someone cold emailing you a commercial offer, or you might have heard about mod_security. Not sure what they are about and how they “secure” you? Say no more. In this presentation, we will delve into the realm of Web Application Firewalls, sparked by encounters with commercial vendors and open-source solutions like mod_security. Join us as we unravel the intricacies of WAFs, understanding what and how they 'firewall', and some techniques on how to bypass them, all in an effort to demystify their role in today’s security landscape
- * Link: TBA
+ * Link: https://www.meetup.com/owasp-ljubljana-chapter/events/299194709/
 
 **Meet #4. Silent killers of web applications - TBA (Online)**
  * Speakers: Adrien Žitko
  * Description: Injection attacks are a type of security vulnerability that can have devastating consequences. These attacks occur when an attacker manages to inject malicious data into your web application’s database, leading to a range of negative outcomes, including data breaches, data tampering, and even complete system collapse. OWASP identifies injection attacks as one of the most critical security risks facing web applications today.
  * Link: TBA
+
 
 ## Past events
 **Meet #1. Opening session OWASP Ljubljana - Post quantum cryptography - 9.11.2023 16:30 (Online)**
